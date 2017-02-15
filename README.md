@@ -1,10 +1,13 @@
 # Simon Game
 
-This is a traditional game re-created for 
-[FreeCodeCamp](ttps://www.freecodecamp.com/challenges/build-a-simon-game)
+This is a traditional game re-created for FreeCodeCamp
+
+[SimonGame](ttps://www.freecodecamp.com/challenges/build-a-simon-game)
 
 
-User Story: 
+###User Story:
+
+
 I am presented with a random series of button presses.
 Each time I input a series of button presses correctly, I see the same series of button presses but with an additional step.
 I hear a sound that corresponds to each button both when the series of button presses plays, and when I personally press a button.
