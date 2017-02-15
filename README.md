@@ -52,12 +52,26 @@ In addition to Free code Camps requirements, further aims to focus on both UX an
   * Use alternative audio samples
 
 
-Though the game logic hasn't been built yet, here are some of the parts of the design so far.
+Though the game logic hasn't been built yet, the files here are some of the parts of the design so far.
 
 ___
 
 A [basic UI](https://appijumbo.github.io/simonGame/) was created so that game logic could then developed. Once the game functions more UX layers using Svg would then be implemented.
 
+---
+
+##Additional game logic
+Rather than just the traditional game, an idea for making it more fun and not a straight Simon clone, was to experiment with when the usr presses the wrong button say, a cats meow is heared and a cat, or cats paw is seen on the game as if accidentaly pressing the buttons.
+
+####Educational role
+This could instead to display other information so whn the cat meows (randomly) the user has to enter an answer to a question
+
+[educational version of Simon game](./design_stuff/images/Simon game with questions_v1.jpg)
+
+
+A SQL database could be implemented to record player names, scores etc.
+
+This could also be used to provide a back-end for parents and teachers to analyse the educational performance of players.
 
 
   
