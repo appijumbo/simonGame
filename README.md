@@ -54,6 +54,10 @@ In addition to Free code Camps requirements, further aims to focus on both UX an
 
 Though the game logic hasn't been built yet, here are some of the parts of the design so far.
 
+___
+
+A [basic UI](https://appijumbo.github.io/simonGame/) was created so that game logic could then developed. Once the game functions more UX layers using Svg would then be implemented.
+
 
 
   
