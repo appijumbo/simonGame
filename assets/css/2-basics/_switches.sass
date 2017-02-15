@@ -1,0 +1,42 @@
+.switches
+  +display(flex)
+  +flex-direction(column)
+  +justify-content(center)
+  height: 15px
+  width: 100px
+  margin: 10px auto
+  padding: 5px
+  text-align: center
+  font-size: 10px
+  letter-spacing: .0.06rem
+  text-transform: uppercase
+  text-decoration: none
+  white-space: nowrap
+  cursor: pointer
+  box-sizing: border-box
+  border: none
+
+
+
+#powerId[data-power_state="off"],
+#strictId[data-strict_state="off"]
+  background-color: rgb(0, 0, 0)
+  &:active,
+  &:focus
+    background-color: rgb(200, 0, 0)
+    border-color: none
+    outline: 0
+    
+
+#powerId[data-power_state="on"],
+#strictId[data-strict_state="on"]
+  background-color: rgb(200, 0, 0)
+
+
+#startId
+  background-color: rgb(0, 0, 0)
+  &:active,
+  &:focus
+    background-color: rgb(0, 255, 0)
+    border-color: none
+    outline: 0

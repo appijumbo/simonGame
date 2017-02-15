@@ -1,0 +1,77 @@
+.theBigButtons
+  display: inline-block
+  text-align: center
+  letter-spacing: .1rem
+  text-transform: uppercase
+  text-decoration: none
+  white-space: nowrap
+  cursor: pointer
+  border: none
+  margin: 50px auto
+  padding: 40px
+
+
+#redButton[data-redbutton_state="off"]
+  background-color: rgb(155, 0, 0)
+  height: 100px
+  width: 300px
+  &:active,
+  &:focus
+    background-color: rgb(255, 0, 0)
+    border-color: none
+    outline: 0
+
+#redButton[data-redbutton_state="on"]
+  background-color: rgb(255, 0, 0)
+  height: 100px
+  width: 300px
+    
+#greenButton[data-greenbutton_state="off"]
+  background-color: rgb(0, 155, 0)
+  height: 100px
+  width: 300px
+  &:active,
+  &:focus
+    background-color: rgb(0, 255, 0)
+    border-color: none
+    outline: 0
+
+#greenButton[data-greenbutton_state="on"]
+  background-color: rgb(0, 255, 0)
+  height: 100px
+  width: 300px
+
+    
+#blueButton[data-bluebutton_state="off"]
+  background-color: rgb(0, 0, 80)
+  height: 100px
+  width: 300px
+  &:active,
+  &:focus
+    background-color: rgb(70, 70, 255)
+    border-color: none
+    outline: 0
+    
+    
+#blueButton[data-bluebutton_state="on"]
+  background-color: rgb(70, 70, 255)
+  height: 100px
+  width: 300px
+
+
+
+#yellowButton[data-yellowbutton_state="off"]
+  background-color: rgb(155, 155, 0)
+  height: 100px
+  width: 300px
+  &:active,
+  &:focus
+    background-color: rgb(255, 255, 0)
+    border-color: none
+    outline: 0
+
+
+#yellowButton[data-yellowbutton_state="on"]
+  background-color: rgb(255, 255, 0)
+  height: 100px
+  width: 300px

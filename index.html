@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    
+    <!--[if IE]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <![endif]-->
+    <!-- 
+    Note: validator produces warnings without the 'if IE' wrapper  
+    see  http://lists.w3.org/Archives/Public/www-validator/2011Mar/0053.html
+    -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--  ****  TITLE HERE -->
+    <title>SimonGame</title>
+
+<!--  ****  DESCRIPTION HERE -->
+    <meta name="description" content="Build a CodePen.io app that is functionally similar to this: http://codepen.io/FreeCodeCamp/full/obYBjE. Use Case Description: I am presented with a random series of button presses. Each time I input a series of button presses correctly, I see the same series of button presses but with an additional step. I hear a sound that corresponds to each button both when the series of button presses plays, and when I personally press a button. If I press the wrong button, I am notified that I have done so, and that series of button presses starts again to remind me of the pattern so I can try again. I can see how many steps are in the current series of button presses. If I want to restart, I can hit a button to do so, and the game will return to a single step.">
+        
+<!--  ****  AUTHOR HERE -->
+    <meta name="author" content="Tom Ormiston">
+    
+<!--  ****  KEYWORDS HERE -->
+    <meta name="keywords" content="free code camp, fcc, simon">
+    
+<!--  ****  CSS etc LINKS HERE -->    
+    <link rel="shortcut icon" href="assets/img/favicon.ico">
+    <link rel="stylesheet" href="assets/css/main.css">
+
+
+</head>
+<body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+<div class="page">
+
+      <!--  SIMONS MAIN BUTTONS  -->
+  <section class="theBigButtons">
+      
+      <div id="redButton" data-redbutton_state="off"></div>
+      <div id="greenButton" data-greenbutton_state="off"></div>
+      <div id="blueButton" data-bluebutton_state="off"></div>
+      <div id="yellowButton" data-yellowbutton_state="off"></div>
+      
+  </section>
+  
+  
+      <!--  OUTPUT DISPLAY -->
+  <section class="outputDisplay">
+     
+      <div id="mainMessage" data-mainmessage_display_state="on"><span>Copy</span><br><span>Me</span></div>
+      <!--  <div id="mainMessage" data-mainmessage_display_state="off"><span>Game</span><br><span>Over</span></div>   -->
+      <!--  <div id="mainMessage" data-mainmessage_display_state="on"><span>*You*</span><br><span>*Win*</span></div>   -->
+      <div id="scoreDisplay" data-score_display_state="off">19</div>
+      <div id="strictDisplay" data-strict_display_state="off">S</div>
+    
+  </section>
+     
+     
+      <!--  SWITCHES-->        
+  <section class="switches">
+
+      <div id="powerId" data-power_state="on">Power</div>
+      <div id="startId">Start</div>
+      <div id="strictId" data-strict_state="off">Strict</div>
+  </section>
+
+</div>
+
+
+<!--  **** JS SCRIPTS   -->
+        <script src="assets/js/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <script src="assets/js/jquery-2.1.4.min.js"></script>
+        <script src="js/app.js"></script>
+        <script src="js/engine.js"></script>
+
+
+    </body>
+</html>
+
+

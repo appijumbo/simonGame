@@ -1,0 +1,40 @@
+.outputDisplay
+  text-align: center
+  height: 114px
+  width: 252px
+  margin: 10px auto
+  text-decoration: none
+  text-transform: uppercase
+  white-space: nowrap
+  cursor: none
+  box-sizing: border-box
+  border: none
+  font-family: Press Start 2P
+  background-color: #6a9f68 // make this color a variable ! - display_col
+
+
+
+#mainMessage[data-mainmessage_display_state="on"]
+  font-size: 35px
+  padding-top: 20px
+  letter-spacing: 0.1rem
+    
+
+#scoreDisplay[data-score_display_state="on"]
+  font-size: 60px
+  padding-top: 30px
+  letter-spacing: .1rem
+
+
+#strictDisplay[data-strict_display_state="on"]
+  position: absolute
+  text-align: left
+  top: 700px
+  left: 100px
+  font-size: 13px
+
+
+#mainMessage[data-mainmessage_display_state="off"],
+#scoreDisplay[data-score_display_state="off"],
+#strictDisplay[data-strict_display_state="off"]
+  display: none
