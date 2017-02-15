@@ -1,6 +1,6 @@
 # Simon Game
 
-The [SimonGame](ttps://www.freecodecamp.com/challenges/build-a-simon-game), is a traditional game re-created for the FreeCode Camp course 
+This is a traditional game re-created for [FreeCodeCamp](ttps://www.freecodecamp.com/challenges/build-a-simon-game)
 
 
 User Story: 
