@@ -56,7 +56,11 @@ Though the game logic hasn't been built yet, the files here are some of the part
 
 ___
 
-A [basic UI](https://appijumbo.github.io/simonGame/) was created so that game logic could then developed. Once the game functions more UX layers using Svg would then be implemented.
+A [basic UI](https://appijumbo.github.io/simonGame/) was created 
+
+![Simon basic UI](./design_stuff/images/Simon basic UI.jpg)
+
+Game logic can be developed first then using Svg the UI would be improved.
 
 ---
 
