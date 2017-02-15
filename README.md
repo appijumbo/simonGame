@@ -1,8 +1,7 @@
 # Simon Game
 
 This is a traditional game re-created for FreeCodeCamp
-[beep 1](https://s3.amazonaws.com/freecodecamp/simonSound1.mp3)
-[SimonGame](ttps://www.freecodecamp.com/challenges/build-a-simon-game)
+[beep 1](ttps://www.freecodecamp.com/challenges/build-a-simon-game)
 
 
 ###User Story:
