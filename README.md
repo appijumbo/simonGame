@@ -35,7 +35,7 @@ Hint: Here are mp3s you can use for each button:
 
 ***
 
-In addition to Free code Camps requirements, further aims were added including:
+In addition to Free code Camps requirements, further aims to focus on both UX and JS were added including:
 
   * a reasonable UI/UX
   
