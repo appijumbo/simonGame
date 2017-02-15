@@ -68,14 +68,14 @@ Game logic can be developed first then using Svg the UI would be improved.
 Rather than just the traditional game, an idea for making it more fun and not a straight Simon clone, was to experiment with when the usr presses the wrong button say, a cats meow is heared and a cat, or cats paw is seen on the game as if accidentaly pressing the buttons.
 
 ####Educational role
-This could instead to display other information so when the cat meows (randomly) the user has to enter an answer to a question
+This could be used in an education role wherby the cat meows (randomly) and its paw appears , then a mmultiple choice question needs to be answered via the Simon UI.
 
 ![educational version of Simon game](./design_stuff/images/Simon game with questions_v1.jpg)
 
 
-A SQL database could be implemented to record player names, scores etc.
+Furthermore player nick names, scores etc. could be stored in localStorage or even on a remote SQL database.
 
-This could also be used to provide a back-end for parents and teachers to analyse the educational performance of players.
+Such a database could also be used to provide a back-end for parents and teachers to analyse the educational performance of players, as well as providing an api for new questions. Security would obviously have to be carefully considered too of course.
 
 
   
