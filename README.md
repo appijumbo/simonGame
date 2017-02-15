@@ -66,7 +66,7 @@ Rather than just the traditional game, an idea for making it more fun and not a 
 ####Educational role
 This could instead to display other information so whn the cat meows (randomly) the user has to enter an answer to a question
 
-[educational version of Simon game](./design_stuff/images/Simon game with questions_v1.jpg)
+![educational version of Simon game](./design_stuff/images/Simon game with questions_v1.jpg)
 
 
 A SQL database could be implemented to record player names, scores etc.
