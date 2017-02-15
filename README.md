@@ -1,7 +1,6 @@
 # Simon Game
 
-This is a traditional game re-created for FreeCodeCamp
-[beep 1](ttps://www.freecodecamp.com/challenges/build-a-simon-game)
+[Simon](https://www.freecodecamp.com/challenges/build-a-simon-game) is a traditional game re-created for FreeCodeCamp
 
 
 ###User Story:
