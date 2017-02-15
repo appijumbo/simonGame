@@ -68,7 +68,7 @@ Game logic can be developed first then using Svg the UI would be improved.
 Rather than just the traditional game, an idea for making it more fun and not a straight Simon clone, was to experiment with when the usr presses the wrong button say, a cats meow is heared and a cat, or cats paw is seen on the game as if accidentaly pressing the buttons.
 
 ####Educational role
-This could be used in an education role wherby the cat meows (randomly) and its paw appears , then a mmultiple choice question needs to be answered via the Simon UI.
+This could be used in an education role wherby the cat meows (randomly) and its paw appears , then a multiple choice question needs to be answered via the Simon UI.
 
 ![educational version of Simon game](./design_stuff/images/Simon game with questions_v1.jpg)
 
