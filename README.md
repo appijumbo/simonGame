@@ -1,7 +1,8 @@
 # Simon Game
 
 This is a traditional game, designed for the FreeCode Camp course 
-(https://www.freecodecamp.com/challenges/build-a-simon-game )
+
+[FreeCodeCamp Simon game](ttps://www.freecodecamp.com/challenges/build-a-simon-game)
 
 
 User Story: 
@@ -16,16 +17,21 @@ I can win the game by getting a series of 20 steps correct. I am notified of my 
 
 
 Hint: Here are mp3s you can use for each button: 
-https://s3.amazonaws.com/freecodecamp/simonSound1.mp3
-https://s3.amazonaws.com/freecodecamp/simonSound2.mp3
-https://s3.amazonaws.com/freecodecamp/simonSound3.mp3
-https://s3.amazonaws.com/freecodecamp/simonSound4.mp3
 
 
-Though its not woking yet here are some experimental parts of the design.
+[beep 1](https://s3.amazonaws.com/freecodecamp/simonSound1.mp3)
 
 
-This is only a small part of the actuall files experimentaed with developed are here.
+[beep 2](https://s3.amazonaws.com/freecodecamp/simonSound2.mp3)
+
+
+[beep 3](https://s3.amazonaws.com/freecodecamp/simonSound3.mp3)
+
+
+[beep 4](https://s3.amazonaws.com/freecodecamp/simonSound4.mp3)
+
+
+***
 
 In addition to Free code Camps requirements, the aim was to focus on
 
@@ -37,12 +43,14 @@ In addition to Free code Camps requirements, the aim was to focus on
   
   * Sass
   
-  * Bourbn and or similar (http://bourbon.io )
+  * Bourbn or similar [bourbon](http://bourbon.io)
   
   * Additional game logic design features (See below)
   
   * Use alternative audio samples
 
+
+Though the game logic hasn't been built yet, here are some of the parts of the design so far.
 
 
 
