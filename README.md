@@ -64,7 +64,7 @@ A [basic UI](https://appijumbo.github.io/simonGame/) was created so that game lo
 Rather than just the traditional game, an idea for making it more fun and not a straight Simon clone, was to experiment with when the usr presses the wrong button say, a cats meow is heared and a cat, or cats paw is seen on the game as if accidentaly pressing the buttons.
 
 ####Educational role
-This could instead to display other information so whn the cat meows (randomly) the user has to enter an answer to a question
+This could instead to display other information so when the cat meows (randomly) the user has to enter an answer to a question
 
 ![educational version of Simon game](./design_stuff/images/Simon game with questions_v1.jpg)
 
