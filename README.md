@@ -1,8 +1,6 @@
 # Simon Game
 
-This is a traditional game, designed for the FreeCode Camp course 
-
-[FreeCodeCamp Simon game](ttps://www.freecodecamp.com/challenges/build-a-simon-game)
+[FreeCodeCamp Simon game](ttps://www.freecodecamp.com/challenges/build-a-simon-game), is a traditional game re-created for the FreeCode Camp course 
 
 
 User Story: 
@@ -43,7 +41,7 @@ In addition to Free code Camps requirements, the aim was to focus on
   
   * Sass
   
-  * Bourbn or similar [bourbon](http://bourbon.io)
+  * [bourbon](http://bourbon.io) or similar
   
   * Additional game logic design features (See below)
   
