@@ -58,8 +58,6 @@ ___
 
 A [basic UI](https://appijumbo.github.io/simonGame/) was created 
 
-![Simon basic UI](https://appijumbo.github.io/simonGame/)
-
 <a href="https://appijumbo.github.io/simonGame/"><img src="./design_stuff/images/Simon basic UI.jpg" width="600"></a>
 
 Game logic can be developed first then using Svg the UI would be improved.
