@@ -209,7 +209,8 @@ body {
 /*****  VARIABLES */
 body {
   margin: 10px;
-  background-image: url("https://dl.dropboxusercontent.com/u/97758216/website%20Images/purty_wood_opt.jpg");
+  /* background-image: url("https://dl.dropboxusercontent.com/u/97758216/website%20Images/purty_wood_opt.jpg") */
+  background-image: url("../img/purty_wood_opt.jpg");
   font-family: "Press Start 2P";
   color: #fff;
   display: -webkit-box;
