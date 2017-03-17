@@ -3,11 +3,11 @@
 [Simon](https://www.freecodecamp.com/challenges/build-a-simon-game) is a traditional game re-created for the FreeCodeCamp course.
 
 
-####User Story:
+#### User Story:
 
 
   * I am presented with a random series of button presses.
-Each time I input a series of button presses correctly, I see the same series of button presses but with an additional step.
+    Each time I input a series of button presses correctly, I see the same series of button presses but with an additional step.
 
 
   * I hear a sound that corresponds to each button both when the series of button presses plays, and when I personally press a button.
@@ -58,16 +58,18 @@ ___
 
 A [basic UI](https://appijumbo.github.io/simonGame/) was created 
 
-![Simon basic UI](./design_stuff/images/Simon basic UI.jpg)
+![Simon basic UI](https://appijumbo.github.io/simonGame/)
+
+<a href="https://appijumbo.github.io/simonGame/"><img src="./design_stuff/images/Simon basic UI.jpg" width="600"></a>
 
 Game logic can be developed first then using Svg the UI would be improved.
 
 ---
 
-##Additional game logic
+## Additional game logic
 Rather than just the traditional game, an idea for making it more fun and not a straight Simon clone, was to experiment with when the usr presses the wrong button say, a cats meow is heared and a cat, or cats paw is seen on the game as if accidentaly pressing the buttons.
 
-####Educational role
+#### Educational role
 This could be used in an education role wherby the cat meows (randomly) and its paw appears , then a multiple choice question needs to be answered via the Simon UI.
 
 ![educational version of Simon game](./design_stuff/images/Simon game with questions_v1.jpg)
