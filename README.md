@@ -71,7 +71,7 @@ Rather than just the traditional game, an idea for making it more fun and not a 
 This could be used in an education role wherby the cat meows (randomly) and its paw appears , then a multiple choice question needs to be answered via the Simon UI.
 
 
-<a href="https://appijumbo.github.io/simonGame/">educational version of Simon game<img src="./design_stuff/images/Simon game with questions_v1.jpg" width="600"></a>
+<a href="https://appijumbo.github.io/simonGame/"><img src="./design_stuff/images/Simon game with questions_v1.jpg" width="600"></a>
 
 Furthermore player nick names, scores etc. could be stored in localStorage or even on a remote SQL database.
 
